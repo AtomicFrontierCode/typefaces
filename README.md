@@ -3,10 +3,12 @@ I-beam analysis code for the "Which typeface's capital "I" makes the best I-beam
 Hacked together in Python because I've become lazy and unfulfilled. 
 
 == To play around with data ==
+
 Download the <<4.Results and Graphs>> folder. The 'showGraphs.py' file will plot the data storred in 'normalisedData.txt'.
 If you also download font images (really large set of files, sorry) then it might also plot a preview assuming it actually works.
 
 == To test your own fonts ==
+
 This is a little harder as you'll need an Abaqus license. There might be information about getting a trial / university copy at https://www.3ds.com/products/simulia/abaqus/cae. I don't know, I just used my university lab computer (sorry people who actually have important research).
 
 You'll then want to run through the following folders in order...
@@ -28,5 +30,6 @@ The 'cleanData.py' function should combine and clean your raw data outputs.
 Finally you should be able to run the 'showGraphs.py' file.
 
 == Modifying and updating ==
+
 If you have an interrest please feel free to modify an update as you see fit. I'm bad at maintaining code and never want to see an I-beam again. I wish you the best!
 - James
