@@ -1,11 +1,12 @@
 I-beam analysis code for the "Which typeface's capital "I" makes the best I-beam?" video.
+Video link: https://youtu.be/AQJDKs8jsjk
 
 Hacked together in Python because I've become lazy and unfulfilled. 
 
 == To play around with data ==
 
 Download the <<4.Results and Graphs>> folder. The 'showGraphs.py' file will plot the data storred in 'normalisedData.txt'.
-If you also download font images (really large set of files, sorry) then it might also plot a preview assuming it actually works.
+If you also download font images (really large set of files, sorry) then it should also plot a preview. Make sure to unzip the file and make sure the names/ file locations are set correctly. I've restricted it to just a single letter since it tends to be unstable if you have the full alphabet.
 
 == To test your own fonts ==
 
