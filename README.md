@@ -1,7 +1,7 @@
 I-beam analysis code for the "Which typeface's capital "I" makes the best I-beam?" video.
 Video link: https://youtu.be/AQJDKs8jsjk
 
-Hacked together in Python because I've become lazy and unfulfilled. 
+Hacked together in Python because I'm lazy and it works. 
 
 == To play around with data ==
 
